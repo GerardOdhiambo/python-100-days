@@ -5,6 +5,7 @@ This repository contains my daily progress as I learn Python from scratch.
 ## Progress
 
 * Day 1: Band Name Generator
+* Day 2: Tip Calculator
 
 ## Goal
 
